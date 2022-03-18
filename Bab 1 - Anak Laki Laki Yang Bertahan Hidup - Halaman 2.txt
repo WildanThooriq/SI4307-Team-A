@@ -1,5 +1,6 @@
 Wildan, Agung, Arya, Kaisar, Harris, Yayat
 
+<<<<<<< HEAD
 	Mr Dursley selalu duduk membelakangi jendela di kantornya di lantai sembilan. Jika
 tidak, mungkin sulit baginya untuk berkonsentrasi pada bor pagi itu. Dia tidak melihat
 burungburung hantu terbang berseliweran di siang hari, meskipun orang-orang lain di jalan
@@ -10,3 +11,22 @@ gangguan burung hantu. Dia berteriak pada lima orang yang berbeda. Dia melakukan
 beberapa pembicaraan telepon penting dan berteriak beberapa kali lagi. Hatinya sedang
 senang, sampai waktu makan siang, ketika dia memutuskan akan melemaskan kaki dan
 berjalan ke toko kue di seberang jalan.
+=======
+<<<<<<< HEAD
+Tetapi menjelang masuk kota, bor tergusur keluar dari pikirannya oleh sesuatu yang
+lain. Sementara terjebak macet seperti biasanya, dia melihat banyak orang berpakaian aneh.
+
+=======
+<<<<<<< HEAD
+Selama mengendarai mobilnya ke kota, yang dipikirkannya hanyalah pesanan bor
+dalam jumlah besar yang akan didapatnya hari itu.
+=======
+Si kucing balas memandangnya, Saat Mr Dursley berbelok di sudut dan meneruskan
+perjalanan, dia memandang kucing itu lewat kaca spionnya. Kucing itu sekarang sedang
+membaca papan jalan yang bertuliskan Privet Drive—bukan, bukan membaca melainkan
+memandang papan jalan itu, kucing itu tidak bisa membaca peta atau papan jalan. Mr Dursley
+menggelengkan kepalanya dan mencoba melupakan kucing itu.
+
+>>>>>>> 1096d508cfd98d2d39702520a85346f59572fcca
+>>>>>>> 70480d63be693985d05729628e64cb086cae22a0
+>>>>>>> aeca62a0cdfffd258ee08da290a11edafc0e22d6
