@@ -7,3 +7,5 @@ fitur dashboard
 <p> fitur Profile</p>
 
 <p> Landing page </p>
+
+<p> Detail Pesanan </p>
