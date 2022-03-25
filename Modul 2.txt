@@ -9,3 +9,5 @@ fitur dashboard
 <p> Landing page </p>
 
 <p> Detail Pesanan </p>
+
+<p> fitur Logout </p>
