@@ -1,3 +1,5 @@
 fitur dashboard
 
 <p> fitur Login </p>
+
+<p> fitur Register </p>
