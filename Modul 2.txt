@@ -5,3 +5,5 @@ fitur dashboard
 <p> fitur Register </p>
 
 <p> fitur Profile</p>
+
+<p> Landing page </p>
